@@ -1,5 +1,4 @@
-# Driver_Drowsiness_Detection
-# 🧠 Driver Drowsiness Detection using Deep Learning
+# Driver Drowsiness Detection using Deep Learning
 
 ## Overview
 Driver fatigue is one of the leading causes of road accidents. This project presents a non-intrusive, vision-based system that detects driver drowsiness using facial features such as eye closure and yawning behavior.
